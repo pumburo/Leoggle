@@ -2,6 +2,8 @@
 
 # Leoggle By Pumburo
 
+echo "Bu program henüz yapım aşamasındadır..."
+
 whois --version > /dev/null
 	whoissorgu=$( echo $? )
 dig -h > /dev/null 
